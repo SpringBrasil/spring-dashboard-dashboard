@@ -1,0 +1,17 @@
+{
+	"content": [
+		{
+			"id": "6e71d0d568e134c029203593b00a0103e7cdf30b",
+			"url": "http://my_repository",
+			"type": "GITHUB"
+		}
+	],
+	"totalElements": 1,
+	"last": true,
+	"totalPages": 1,
+	"size": 0,
+	"number": 0,
+	"sort": null,
+	"numberOfElements": 1,
+	"first": true
+}
